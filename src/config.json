@@ -1,0 +1,15 @@
+{
+    "development": {
+        "config_id": "development",
+        "typeorm": {
+            "type": "mysql",
+            "host": "localhost",
+            "port": 3306,
+            "username": "root",
+            "password": "karen1424@@",
+            "database": "Chat",
+            "synchronize": true,
+            "loggining": true
+        }
+    }
+}
